@@ -1,4 +1,4 @@
-from Stack import Stack
+from .Stack import Stack
 
 
 def posfixEval(postfixExpr):

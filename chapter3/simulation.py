@@ -1,7 +1,7 @@
 from random import randrange
-from Queue import Queue
-from Printer import Printer
-from Task import Task
+from .Queue import Queue
+from .Printer import Printer
+from .Task import Task
 
 
 def simulation(numSeconds, pagesPerMinute):

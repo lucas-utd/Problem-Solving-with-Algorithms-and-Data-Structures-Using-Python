@@ -1,4 +1,4 @@
-from Stack import Stack
+from .Stack import Stack
 import string
 
 
