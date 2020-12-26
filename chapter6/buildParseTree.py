@@ -1,6 +1,6 @@
 from typing import Pattern
 from chapter3.Stack import Stack
-from chapter6.BinaryTree import BinaryTree
+from .BinaryTree import BinaryTree
 import operator
 
 
